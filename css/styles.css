@@ -1,0 +1,111 @@
+
+body{
+font-family: 'Architects Daughter', cursive;
+  font-weight: bolder;
+  color:white;
+  background-color: #EEEEEE;
+}
+ #header{
+  background-color: #000000;
+}
+.title-img{
+  position: absolute;
+  right:10px;
+}
+#title{
+  padding:5%;
+}
+.big-heading{
+line-height: normal;
+  font-size: 100px;
+ padding:15%;
+ padding-bottom: 5%;
+  font-family: "Montserrat-black";
+  font-weight: bolder;
+
+}
+.heading-p{
+  padding: 10% ;
+  text-align: center;
+  padding-top: 3%;
+}
+.navbar {
+  padding: 0 0 4.5rem;
+}
+.download-button{
+text-align:center;
+}
+
+#about-me{
+  background-color: #EEEEEE;
+  color:#1B262C;
+  text-align: center;
+  padding: 3% 7% 10%;
+  margin-bottom:  4%;
+  font-family: 'Roboto Mono', monospace;
+  font-weight: bolder;
+}
+.aboutme1{
+  color: #000000;
+  line-height: 2.4;
+}
+
+#products{
+ background-color: #000000;
+ text-align: center;
+   padding: 3% 7% 10%;
+
+}
+.rj-images{
+text-align: center;
+}
+.products{
+  line-height: 2.4;
+  font-family: 'Roboto Mono', monospace;
+}
+#review{
+  color:#000000;
+  text-align: center;
+     padding: 3% 7% 10%;
+     line-height: 5;
+     font-family: 'Roboto Mono', monospace;
+     background-color: #EEEEEE;
+
+}
+
+
+.review{
+  line-height: 4;
+}
+#contact{
+  color: #EEEEEE;
+  text-align: center;
+  background-color:#000000;
+  padding:3% 7% 10%;
+   line-height: 2;
+   font-family: 'Roboto Mono', monospace;
+}
+.contact{
+  line-height: 2;
+}
+#down{
+  text-align: center;
+  padding: 7% 10%;
+  color:#000000;
+  font-family: 'Roboto Mono', monospace;
+  background-color: #EEEEEE;
+
+
+}
+.container-fluid {
+  padding: 3% 7% 15%;
+}
+.social-icon:hover {
+
+    color: #222831;
+}
+.icon{
+
+ padding:2% 2% 2%;
+ font-size:30px;
+}

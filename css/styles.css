@@ -2,7 +2,7 @@
 body{
 font-family: 'Architects Daughter', cursive;
   font-weight: bolder;
-  color:white;
+  color:#ffffff;
   background-color: #EEEEEE;
   padding:0px;
   margin:0px;
@@ -18,7 +18,7 @@ right:50px;
 
 .big-heading{
 line-height: normal;
-  font-size: 600%;
+  font-size: 500%;
 
 padding:3%;
   font-family: "Montserrat-black";
@@ -28,7 +28,7 @@ padding:3%;
 .heading-p{
   padding: 10% ;
   text-align: center;
-  padding-top: 3%;
+
 }
 .navbar {
   padding: 0 0 4.5rem;
@@ -54,7 +54,7 @@ text-align:center;
 #products{
  background-color: #000000;
  text-align: center;
-   padding: 3% 7% 105;
+   padding: 3% 7% 15%;
 
 }
 .rj-images{
